@@ -1,0 +1,63 @@
+{
+    "contacts":[
+        {
+            "id":"ca1",
+            "name":"abil joseph",
+            "email":"abc@gmail.com",
+            "phone":"1234567",
+            "company":"Romaguera-Crona",
+            "groupId":"1",
+            "title":"developer",
+            "photo":"https://images.psg.media/media/209026/card-season-22-23-messi.png?center=0.5,0.5&mode=crop&width=400&height=600&quality=75"
+        },
+         {
+            "id":"ca1",
+            "name":"abil joseph",
+            "email":"abc@gmail.com",
+            "phone":"1234567",
+            "company":"Romaguera-Crona",
+            "groupId":"1",
+            "title":"developer",
+            "photo":"https://images.psg.media/media/209026/card-season-22-23-messi.png?center=0.5,0.5&mode=crop&width=400&height=600&quality=75"
+        },
+         {
+            "id":"ca1",
+            "name":"abil joseph",
+            "email":"abc@gmail.com",
+            "phone":"1234567",
+            "company":"Romaguera-Crona",
+            "groupId":"1",
+            "title":"developer",
+            "photo":"https://images.psg.media/media/209026/card-season-22-23-messi.png?center=0.5,0.5&mode=crop&width=400&height=600&quality=75"
+        },
+         {
+            "id":"ca1",
+            "name":"abil joseph",
+            "email":"abc@gmail.com",
+            "phone":"1234567",
+            "company":"Romaguera-Crona",
+            "groupId":"1",
+            "title":"developer",
+            "photo":"https://images.psg.media/media/209026/card-season-22-23-messi.png?center=0.5,0.5&mode=crop&width=400&height=600&quality=75"
+        }
+    ],
+    "groups":[
+        {
+            "id":"1",
+            "name":"friend"
+        },
+         {
+            "id":"2",
+            "name":"Family"
+        },
+         {
+            "id":"3",
+            "name":"social"
+        },
+         {
+            "id":"4",
+            "name":"collegue"
+        }
+    ]
+
+}
